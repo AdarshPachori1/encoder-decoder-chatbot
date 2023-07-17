@@ -1,0 +1,111 @@
+{
+    "intents": [
+     [
+      {
+       "tag": "greeting",
+       "patterns": [
+        "hi,",
+        "hi!",
+        "how are you",
+        "is anyone there?",
+        "hello",
+        "good day",
+        "whats up",
+        "hey!",
+        "greetings"
+       ],
+       "responses": [
+        "hey, whats up?",
+        "hello there!",
+        " how are you?",
+        "hello there, how is it going?",
+        "Hey, how are you?",
+        " how are you doing today?",
+        "I'm doing great how are you?",
+        "Hello, how are you doing today?",
+        "Hello, how are you?",
+        "hi, what's up!",
+        "Hi, how are you?",
+        "Hi, how are you doing!",
+        "hello there, nice seeing you",
+        "Hey, how are you doing?",
+        "hello",
+        "hello, who am I having the pleasure to chat with",
+        "Wow, hello.",
+        "Hey, how are you",
+        "Oh hello."
+       ]
+      },
+      {
+       "tag": "weather",
+       "patterns": [
+        "weather",
+        " sun ",
+        "sunny ",
+        " rain ",
+        " rainy ",
+        " raining"
+       ],
+       "responses": [
+        " I hope the weather will be nice",
+        "is it raining pretty bad today?",
+        " It's been raining cats and dogs here since last 2-3 weeks",
+        " It's raining a bit, but I am enjoying a good book.",
+        " Its good that we don't get to suffer extreme cold weather!",
+        " I think we need more rain here",
+        " I don't think I can survive in that weather ever.",
+        "yeah but I think it's good to have some rainy days in bay area, it's pretty dry here",
+        "surprising that the rain started early this year."
+       ]
+      },
+      {
+       "tag": "plans",
+       "patterns": [
+        " week ",
+        " weekend ",
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday",
+        " plan ",
+        " plans ",
+        " any plans ",
+        "what are you doing"
+       ],
+       "responses": [
+        " Take the least interesting day of the week off and work on the most interesting?",
+        "Its next saturday.  Actually Depending on how long we get the place reserved, it may slip to sunday as well.",
+        "Any big plans for the upcoming holidays?",
+        " Admit I just want to stay healthy for the holidays and plan to relax.",
+        " Do you have any plans for the holidays?",
+        " what do you plan to buy?",
+        " This weekend I went rock climbing!",
+        "Last weekend I saw \"The Parasite.",
+        " I plan to do plenty of shopping here.",
+        "Hope you are having fun doing that  Any plans for the weekend?",
+        "how's week so far?",
+        " Where in europe do you plan to visit?",
+        "A couple projects that I am trying to finish up before Thanksgiving  Do you have any fun plans for the break?",
+        " haha Have any fun weekend plans yourself?",
+        " What sort of things do you plan to mentor on?",
+        " so what are you doing these holidays?",
+        "Do you have any holiday plans for christmas?",
+        "How has your week been?",
+        " any plans this weekend?",
+        "Yes, no shopping plans but I can't wait to eat thanksgiving food.",
+        "Tentative plan is to drive to LA on 23rd and then stay at the Disney resort for 2 nights.",
+        " I actually have a jiu jitsu tournament coming up so this weekend I will be training!",
+        "uh oh, I'd better not to plan for BBQ then instead just enjoying playing board games inside"
+       ]
+      },
+      {
+       "tag": "misc",
+       "patterns": [],
+       "responses": []
+      }
+     ]
+    ]
+   }
